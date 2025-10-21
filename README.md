@@ -1,5 +1,5 @@
 <!-- 👋 Apresentação -->
-<h1 align="center">👋 Olá, eu sou o Lucas Vinícius (Yoshi)!</h1>
+<h1 align="center">👋 Olá, eu sou o Lucas Vinícius (Yosher)!</h1>
 <h3 align="center">💻 Desenvolvedor em formação | 🚀 Amante de tecnologia, IA e automação</h3>
 
 ---
@@ -8,7 +8,7 @@
 ### 🧠 Sobre mim
 - 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)**  
 - 💡 Interessado em **Inteligência Artificial, Automação e Desenvolvimento Web**  
-- 🎮 Gamer nas horas vagas — também conhecido como **Yoshi** 🦖  
+- 🎮 Gamer nas horas vagas — também conhecido como **Yosher** 🦖  
 - ☕ Apaixonado por café, código e boas conversas sobre inovação  
 
 ---
