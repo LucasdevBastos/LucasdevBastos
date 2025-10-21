@@ -2,9 +2,17 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Vinícius (Yosher)!</h1>
 <h3 align="center">💻 Desenvolvedor em formação | 🚀 Amante de tecnologia, IA e automação</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasdevBastos&label=👀+Visualizações&color=blueviolet&style=for-the-badge" alt="visualizações do perfil"/>
+</p>
+
 ---
 
-<!-- 🧠 Sobre mim -->
+> 🌟 “Transformando ideias em código e café em produtividade.”  
+> 💬 Sempre curioso, sempre aprendendo.
+
+---
+
 ### 🧠 Sobre mim
 - 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)**  
 - 💡 Interessado em **Inteligência Artificial, Automação e Desenvolvimento Web**  
@@ -13,7 +21,6 @@
 
 ---
 
-<!-- 🛠️ Linguagens e Tecnologias -->
 ### 🛠️ Linguagens e Tecnologias
 <div align="center">
 
@@ -28,7 +35,24 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
+### ⚙️ Ferramentas e Plataformas
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+- 🧠 [**BBX TechCast**](https://github.com/LucasdevBastos/BBX-TechCast) — Podcast sobre tecnologia e IA, com uma pegada leve e descontraída  
+- 🏡 [**ImóveisWeb**](https://github.com/LucasdevBastos/imoveisweb) — Site de imóveis com banco de dados funcional e sistema de login  
+
+---
+
 ### 📊 Minhas Estatísticas
 <div align="center">
   
@@ -39,7 +63,14 @@
 
 ---
 
-<!-- 💬 Contato -->
+### 🎯 Estatísticas Rápidas
+- 🔥 Mais ativo em: **Python & Web**
+- 🕹️ Horas de código acumuladas (2025): **+200**
+- 💬 Linguagem favorita: **Python**
+- 📘 Atualmente aprendendo: **Django e API REST**
+
+---
+
 ### 💬 Vamos conversar!
 <div align="center">
   
@@ -50,7 +81,6 @@
 
 ---
 
-<!-- 🎮 Gráfico Pac-Man -->
 ### 🎮 Meu gráfico de contribuições
 <p align="center">
   <picture>
@@ -61,5 +91,10 @@
 </p>
 
 ---
+
+<p align="center">
+  Feito com ❤️ por <b>Lucas “Yosher” Vinícius</b> <br>
+  <sub>💻 Café + Código + Criatividade ☕</sub>
+</p>
 
 <h4 align="center">⭐ Sempre aprendendo algo novo — um commit de cada vez 🚀</h4>
