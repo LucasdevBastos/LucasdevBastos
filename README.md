@@ -48,8 +48,11 @@
 ---
 
 ### 🚀 Projetos em Destaque
-- 🧠 [**BBX TechCast**](https://github.com/LucasdevBastos/BBX-TechCast) — Podcast sobre tecnologia e IA, com uma pegada leve e descontraída  
-- 🏡 [**ImóveisWeb**](https://github.com/LucasdevBastos/imoveisweb) — Site de imóveis com banco de dados funcional e sistema de login  
+🌐 SIGREF – Sistema Integrado da GRE Floresta
+ — Desenvolvimento completo do portal institucional SIGREF, atuando em toda a stack (front-end e back-end).
+ 
+🎓 Curso FIC – Informática Básica (IFSertão-PE)
+ — Desenvolvimento completo do site do curso FIC de Informática Básica do IFSertão-PE.
 
 ---
 
