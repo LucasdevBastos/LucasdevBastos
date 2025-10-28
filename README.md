@@ -47,7 +47,7 @@
 
 ---
 
-###🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 🌐 SIGREF – Sistema Integrado da GRE Floresta
 Desenvolvimento completo do portal institucional SIGREF, atuando em toda a stack (front-end e back-end).
