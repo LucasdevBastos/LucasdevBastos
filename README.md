@@ -16,7 +16,7 @@
 ### 🧠 Sobre mim
 - 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)**  
 - 💡 Interessado em **Inteligência Artificial, Automação e Desenvolvimento Web**  
-- 🎮 Gamer nas horas vagas — também conhecido como **Yosher** 🦖  
+- 🎮 Gamer nas horas vagas (também conhecido como **Yosher** 🦖)  
 - ☕ Apaixonado por café, código e boas conversas sobre inovação  
 
 ---
